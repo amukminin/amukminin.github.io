@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hasil Prediksi Produk</title>
+</head>
+<body>
+    <h1>Hasil Prediksi Produk untuk Pelanggan {{ customer_id }}</h1>
+    <p>Produk yang direkomendasikan: {{ predicted_product }}</p>
+</body>
+</html>
