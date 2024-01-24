@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Prediksi Produk</title>
+</head>
+<body>
+    <h1>Selamat datang di Aplikasi Prediksi Produk!</h1>
+    <form method="post" action="/">
+        <label for="customer_id">Masukkan ID Pelanggan:</label>
+        <input type="text" name="customer_id" required>
+        <button type="submit">Prediksi Produk</button>
+    </form>
+</body>
+</html>
